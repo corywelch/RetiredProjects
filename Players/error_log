@@ -1,0 +1,11 @@
+[09-Apr-2014 09:13:06 America/Chicago] PHP Fatal error:  Call to a member function find() on a non-object in /home/corywelc/public_html/PlayoffPool/Players/index.php on line 86
+[09-Apr-2014 09:14:29 America/Chicago] PHP Fatal error:  Call to a member function find() on a non-object in /home/corywelc/public_html/PlayoffPool/Players/index.php on line 86
+[09-Apr-2014 09:14:58 America/Chicago] PHP Fatal error:  Call to a member function find() on a non-object in /home/corywelc/public_html/PlayoffPool/Players/index.php on line 87
+[09-Apr-2014 09:15:05 America/Chicago] PHP Fatal error:  Call to a member function find() on a non-object in /home/corywelc/public_html/PlayoffPool/Players/index.php on line 87
+[09-Apr-2014 09:16:18 America/Chicago] PHP Fatal error:  Call to a member function find() on a non-object in /home/corywelc/public_html/PlayoffPool/Players/index.php on line 87
+[09-Apr-2014 09:27:38 America/Chicago] PHP Fatal error:  Call to a member function find() on a non-object in /home/corywelc/public_html/PlayoffPool/Players/index.php on line 86
+[11-Apr-2014 13:39:49 America/Chicago] PHP Warning:  file_get_contents(http:corywelch.x10.mx/PlayoffPool/Players/allPlayers.php): failed to open stream: No such file or directory in /home/corywelc/public_html/PlayoffPool/php/simple_html_dom.php on line 77
+[11-Apr-2014 13:39:49 America/Chicago] PHP Fatal error:  Call to a member function find() on a non-object in /home/corywelc/public_html/PlayoffPool/Players/index.php on line 86
+[11-Apr-2014 13:45:56 America/Chicago] PHP Fatal error:  Call to undefined function file_get_html() in /home/corywelc/public_html/PlayoffPool/Players/allPlayers.php on line 12
+[11-Apr-2014 13:47:15 America/Chicago] PHP Fatal error:  Call to undefined function file_get_html() in /home/corywelc/public_html/PlayoffPool/Players/allPlayers.php on line 12
+[11-Apr-2014 13:47:18 America/Chicago] PHP Fatal error:  Call to undefined function file_get_html() in /home/corywelc/public_html/PlayoffPool/Players/allPlayers.php on line 12
