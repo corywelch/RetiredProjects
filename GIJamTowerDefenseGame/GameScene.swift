@@ -9,37 +9,63 @@
 import SpriteKit
 
 class GameScene: SKScene {
+    
+    let numEnemies = [1,2,3,4,5,6]
+    var curLevel = 0
+    var alive = true
+    
     override func didMoveToView(view: SKView) {
-        /* Setup your scene here */
-        let myLabel = SKLabelNode(fontNamed:"Chalkduster")
-        myLabel.text = "Hello, World!";
-        myLabel.fontSize = 65;
-        myLabel.position = CGPoint(x:CGRectGetMidX(self.frame), y:CGRectGetMidY(self.frame));
         
-        self.addChild(myLabel)
+        backgroundColor = SKColor.whiteColor()
+        
+        //Load Background Image
+        let background = SKSpriteNode(imageNamed: "GeneralMap.png")
+        background.position = CGPoint(x: size.width/2,y:size.height/2)
+        addChild(background)
+
+        println("Background Added")
+
+        let tower = SKSpriteNode(imageNamed: "GeneralTower.png")
+        tower.position = CGPoint(x: size.width/2+120, y: size.height/2+40)
+        
+        addChild(tower)
+        println("Tower Placed")
+        
+        runAction(SKAction.repeatAction(
+            SKAction.sequence([
+                SKAction.runBlock(level),
+                SKAction.waitForDuration(3)
+                ]), count: 5
+            ))
+        
+    }
+    func level(){
+        println("Level: \(curLevel)")
+        runAction(SKAction.repeatAction(
+            SKAction.sequence([
+                SKAction.runBlock(addEnemy),
+                SKAction.waitForDuration(0.5)
+                ]), count: numEnemies[curLevel]
+        ))
+        curLevel++
+
     }
     
-    override func touchesBegan(touches: NSSet, withEvent event: UIEvent) {
-        /* Called when a touch begins */
+    func addEnemy() {
         
-        for touch: AnyObject in touches {
-            let location = touch.locationInNode(self)
-            
-            let sprite = SKSpriteNode(imageNamed:"Spaceship")
-            
-            sprite.xScale = 0.5
-            sprite.yScale = 0.5
-            sprite.position = location
-            
-            let action = SKAction.rotateByAngle(CGFloat(M_PI), duration:1)
-            
-            sprite.runAction(SKAction.repeatActionForever(action))
-            
-            self.addChild(sprite)
-        }
-    }
-   
-    override func update(currentTime: CFTimeInterval) {
-        /* Called before each frame is rendered */
+        let enemy = SKSpriteNode(imageNamed: "GeneralEnemy.png")
+        enemy.position = CGPoint(x: size.width, y: 3*size.height/4)
+        
+        
+        addChild(enemy)
+        println("Enemy Spawned")
+        
+        let move = SKAction.moveTo(CGPoint(x: 10, y: 10), duration: NSTimeInterval(CGFloat(15.0)))
+        let delete = SKAction.removeFromParent()
+        
+        enemy.runAction(SKAction.sequence([move,delete]))
+        
+        println("Enemy Done")
+        
     }
 }

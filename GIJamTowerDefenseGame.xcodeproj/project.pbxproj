@@ -7,6 +7,10 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8B5396231A73F5CC00882A68 /* Tower.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B5396221A73F5CC00882A68 /* Tower.swift */; };
+		8B5396251A73F5D600882A68 /* Enemy.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B5396241A73F5D600882A68 /* Enemy.swift */; };
+		8B5396271A73F67C00882A68 /* Projectile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B5396261A73F67C00882A68 /* Projectile.swift */; };
+		8B5396321A73FB7600882A68 /* GeneralAssets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8B5396311A73FB7600882A68 /* GeneralAssets.xcassets */; };
 		8B618CB91A73EEEA004234E9 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B618CB81A73EEEA004234E9 /* AppDelegate.swift */; };
 		8B618CBB1A73EEEA004234E9 /* GameScene.sks in Resources */ = {isa = PBXBuildFile; fileRef = 8B618CBA1A73EEEA004234E9 /* GameScene.sks */; };
 		8B618CBD1A73EEEA004234E9 /* GameScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B618CBC1A73EEEA004234E9 /* GameScene.swift */; };
@@ -28,6 +32,10 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		8B5396221A73F5CC00882A68 /* Tower.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Tower.swift; sourceTree = "<group>"; };
+		8B5396241A73F5D600882A68 /* Enemy.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Enemy.swift; sourceTree = "<group>"; };
+		8B5396261A73F67C00882A68 /* Projectile.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Projectile.swift; sourceTree = "<group>"; };
+		8B5396311A73FB7600882A68 /* GeneralAssets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = GeneralAssets.xcassets; sourceTree = "<group>"; };
 		8B618CB31A73EEEA004234E9 /* GIJamTowerDefenseGame.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GIJamTowerDefenseGame.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8B618CB71A73EEEA004234E9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8B618CB81A73EEEA004234E9 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -81,6 +89,8 @@
 		8B618CB51A73EEEA004234E9 /* GIJamTowerDefenseGame */ = {
 			isa = PBXGroup;
 			children = (
+				8B5396221A73F5CC00882A68 /* Tower.swift */,
+				8B5396241A73F5D600882A68 /* Enemy.swift */,
 				8B618CB81A73EEEA004234E9 /* AppDelegate.swift */,
 				8B618CBA1A73EEEA004234E9 /* GameScene.sks */,
 				8B618CBC1A73EEEA004234E9 /* GameScene.swift */,
@@ -89,6 +99,8 @@
 				8B618CC31A73EEEA004234E9 /* Images.xcassets */,
 				8B618CC51A73EEEA004234E9 /* LaunchScreen.xib */,
 				8B618CB61A73EEEA004234E9 /* Supporting Files */,
+				8B5396261A73F67C00882A68 /* Projectile.swift */,
+				8B5396311A73FB7600882A68 /* GeneralAssets.xcassets */,
 			);
 			path = GIJamTowerDefenseGame;
 			sourceTree = "<group>";
@@ -202,6 +214,7 @@
 				8B618CC41A73EEEA004234E9 /* Images.xcassets in Resources */,
 				8B618CBB1A73EEEA004234E9 /* GameScene.sks in Resources */,
 				8B618CC21A73EEEA004234E9 /* Main.storyboard in Resources */,
+				8B5396321A73FB7600882A68 /* GeneralAssets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -219,9 +232,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8B5396271A73F67C00882A68 /* Projectile.swift in Sources */,
 				8B618CBD1A73EEEA004234E9 /* GameScene.swift in Sources */,
+				8B5396251A73F5D600882A68 /* Enemy.swift in Sources */,
 				8B618CBF1A73EEEA004234E9 /* GameViewController.swift in Sources */,
 				8B618CB91A73EEEA004234E9 /* AppDelegate.swift in Sources */,
+				8B5396231A73F5CC00882A68 /* Tower.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -413,6 +429,7 @@
 				8B618CD81A73EEEA004234E9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		8B618CD91A73EEEA004234E9 /* Build configuration list for PBXNativeTarget "GIJamTowerDefenseGameTests" */ = {
 			isa = XCConfigurationList;
@@ -421,6 +438,7 @@
 				8B618CDB1A73EEEA004234E9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
