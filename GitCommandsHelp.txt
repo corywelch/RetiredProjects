@@ -1,0 +1,140 @@
+This is the general help.txt File for commands and reference git and Github related.
+
+----------------------------------
+------- Making Changes 101 -------
+----------------------------------
+The Process for branching the git repository and getting started on your own environment.
+
+run the following commands to branch the DEV repository to begin working.
+
+# git remote add github https://github.com/corywelch/Hydra.git
+# git pull github DEV (Sign in will be required, you will need to be a collaborator to use)
+# git remote -v (will show all branches, make sure github exists (fetch and push) and local DEV exists, should look like A)
+# git checkout -b NameDEV (Will create local branch with name NameDEV and switch you into it)
+# git status (Will show which branch you are on, and status of all files, you should be on NameDEV branch, will also show merges)
+# git branch -a (Will show all branches, local and remote, The star should be beside NameDEV, if not then run the following)
+# git checkout NameDEV (Will switch into NameDEV branch)
+
+Make your changes as needed
+
+Run the Following set to commit files to DEV branch first command is key when multiple Developers are present
+
+# git pull github DEV (Will update to latest code in DEV, will tell you if there are conflicts and ask you to resolve them, it will tell you which files have a problem)
+# git add .
+# git commit -am "Message for commit here"
+# git push github NameDEV:DEV (Will commit changes in local NameDEV branch to remote (github) DEV branch, again merge conflicts may need to be done, so repeat from git pull)
+# git checkout NameDEV (To go back to local branch, if it changes)
+
+
+----------------------
+----- Git Status -----
+----------------------
+
+# git status
+Will show changes on the local files, will tell you to add them if they are not added. Will also say which files are modified.
+
+Changes not staged need to be added
+
+
+---------------------
+---- Git Remote -----
+---------------------
+
+# git remote
+Will list all remotes
+
+# git remote -v
+Will list all remotes with fetch pull addresses
+
+# git remote add github https://github.com/corywelch/Hydra.git
+
+
+--------------------
+----- Git Pull -----
+--------------------
+
+# git pull github master
+Will pull the master branch from the github remote and make it the active local repository
+
+
+-------------------
+----- Git Add -----
+-------------------
+
+# git add .
+Will add all local changes to tracked files
+
+# git add -A .
+Will add all files and delete deleted files
+
+# git add -A --force .
+Will add all files and delete deleted files even those in the .gitignore file
+
+
+----------------------
+----- Git Commit -----
+----------------------
+
+# git commit -m "Message Here"
+Will commit all added files with the message: Message Here
+
+
+--------------------
+----- Git Push -----
+--------------------
+
+# git push github master
+Will push committed changes to the master branch of the github remote repository
+
+# git push github Name
+Will push to or create remote branch, a local branch with the same name must exist in order to create and push
+
+# git push github :Name
+Will delete the branch Name on the remote github
+
+#git push -u github LocalName:Name
+Will push local branch LocalName to the github branch Name
+
+
+------------------------
+----- Git Checkout -----
+------------------------
+# git checkout master
+Will switch to master branch
+
+#git checkout -b Name
+Will create and switch to a new branch called Name
+
+
+---------------------
+---- Git Branch -----
+---------------------
+
+# git branch
+Will show all local branches
+
+# git branch -a
+Will show all branches remote and local
+
+# git branch -d Name
+Will delete the local branch called Name
+
+
+-----------------------------------
+----- Git Merge -----
+-----------------------------------
+this should be done in the parent branch ie master over Name
+
+# git merge Name
+Will fast forward changes from Name into master.
+
+
+-----------------------------------
+----- Show History of Commits -----
+-----------------------------------
+
+# git log --graph --full-history --all --pretty=format:"%h%x09%d%x20%s"
+Will format git repository history with commit names and messages, will show branches in colour
+
+By: Cory Welch
+
