@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>menu.png</file>
+        <file>filter.png</file>
+        <file>search.png</file>
+        <file>settings.png</file>
+        <file>user.png</file>
+        <file>view.png</file>
+        <file>dark.qss</file>
+    </qresource>
+</RCC>
