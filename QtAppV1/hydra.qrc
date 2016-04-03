@@ -7,5 +7,6 @@
         <file>user.png</file>
         <file>view.png</file>
         <file>dark.qss</file>
+        <file>logo.png</file>
     </qresource>
 </RCC>

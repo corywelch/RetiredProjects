@@ -21,3 +21,5 @@ FORMS    += mainwindow.ui
 
 RESOURCES += \
     hydra.qrc
+
+win32: RC_ICONS = logo.ico
