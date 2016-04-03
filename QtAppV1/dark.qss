@@ -4,16 +4,89 @@
    border-color: darkgreen;
 }
 
-QStatusBar, QLabel {
+QMenuBar, QMenuItem, QStatusBar, QLabel {
    font: normal;
    background-color: black;
    color: white;
 }
 
+QMenuBar::item {
+    spacing: 3px;
+    padding: 1px 4px;
+    background-color: black;
+    color: white;
+}
+
+QMenuBar::item:hover {
+    background:: darkred;
+}
 
 
+QMenu {
+    background-color: black;
+    color: white;
+    margin: 2px;
+    border: 2px;
+    border-color : green;
+}
+
+QMenu::item {
+    background-color: black;
+    color: white;
+    padding: 2px 25px 2px 20px;
+    border: 1px solid transparent;
+}
+
+QMenu::item:selected {
+    border-color: loghtblue;
+    background: darkblue;
+    color: white;
+}
+
+QMenu::item:selected {
+    border-color: loghtblue;
+    background: darkblue;
+    color: white;
+}
+
+QTreeView {
+    show-decoration-selected: 1;
+    color: white;
+    background-color: black;
+    alternate-background-color: #202020;
+    selection-color: yellow;
+    selection-background-color: darkblue;
+}
+
+QHeaderView {
+    border: 0px solid black;
+    padding: 2px 2px 2px 2px;
+}
+
+QHeaderView:section {
+    background-color: black;
+    color: white;
+    padding: 2px 2px 2px 2px;
+    margin: 2px;
+    border: 1px solid yellow;
+}
+
+QTreeView::item:selected:active {
+    background-color: darkblue;
+    selection-color: yellow;
+}
+
+QTreeView::item:hover {
+    background-color: darkred;
+}
+
+QMessageBox {
+    color: white;
+    background-color: black;
+}
 
 QPushButton {
+    color: white;
     background-color: black;
     border-width: 2px;
     border-color: orange;
@@ -61,14 +134,6 @@ QComboBox, QLineEdit, QSpinBox, QTextEdit, QListView {
     selection-background-color: darkblue;
 }
 
-QListView {
-    show-decoration-selected: 1;
-    color: white;
-}
-
-QListView::item:hover {
-    background-color: darkred;
-}
 
 QLineEdit, QFrame {
     border-width: 2px;

@@ -2,7 +2,7 @@
 #define MAINWINDOW_H
 
 #include <QMainWindow>
-#include <QListView>
+#include <QTreeView>
 #include <QFileSystemModel>
 
 //namespace Ui {
@@ -17,8 +17,11 @@ public:
     explicit MainWindow(QWidget *parent = 0);
     ~MainWindow();
 
+private slots:
+    void about();
+
 private:
-    QListView* view;
+    QTreeView* view;
     QFileSystemModel* model;
 
 //    Ui::MainWindow *ui;
