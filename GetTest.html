@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <title>Get Reverse IP</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+</head>
+<body>
+	Please enter a domain name
+<input type="text" id="searchip">
+<button type="button" onclick="go()">Go</button>
+<div id="resultip"></div>
+<script>
+ 	function go(){
+	    $.ajax({
+		    type: "GET",
+		    url: "http://localhost:80/reverseip.php",
+		    data: ('ip=' + $('#searchip').val()),
+		    success: function(msg){
+			    $('#resultip').html(msg);
+		    }
+	    });
+    };
+</script>
+</body>
+</html>

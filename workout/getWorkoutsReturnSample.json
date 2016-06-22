@@ -1,0 +1,332 @@
+[
+  {
+    "workoutid": "1",
+    "username": "cwelch",
+    "userid": "1",
+    "location": "Fit4Less Brantford",
+    "locationid": "1",
+    "date": "2015-06-08",
+    "starttime": "18:10:00",
+    "workoutnote": null,
+    "move": [
+      {
+        "moveid": "1",
+        "baseexercisename": "Dead Lift",
+        "movenote": null,
+        "order": "1",
+        "set": [
+          {
+            "setid": "1",
+            "exercise": "Dead Lift",
+            "exercisetype": "rep",
+            "reptime": "5",
+            "weight": "205",
+            "unit": "lb",
+            "settype": "Regular",
+            "setnote": null,
+            "order": "1"
+          },
+          {
+            "setid": "1",
+            "exercise": "Dead Lift",
+            "exercisetype": "rep",
+            "reptime": "5",
+            "weight": "205",
+            "unit": "lb",
+            "settype": "Regular",
+            "setnote": null,
+            "order": "2"
+          },
+          {
+            "setid": "1",
+            "exercise": "Dead Lift",
+            "exercisetype": "rep",
+            "reptime": "5",
+            "weight": "205",
+            "unit": "lb",
+            "settype": "Regular",
+            "setnote": null,
+            "order": "3"
+          },
+          {
+            "setid": "2",
+            "exercise": "Dead Lift",
+            "exercisetype": "rep",
+            "reptime": "5",
+            "weight": "215",
+            "unit": "lb",
+            "settype": "Regular",
+            "setnote": null,
+            "order": "4"
+          },
+          {
+            "setid": "2",
+            "exercise": "Dead Lift",
+            "exercisetype": "rep",
+            "reptime": "5",
+            "weight": "215",
+            "unit": "lb",
+            "settype": "Regular",
+            "setnote": null,
+            "order": "5"
+          }
+        ]
+      },
+      {
+        "moveid": "2",
+        "baseexercisename": "Lat Pull Down",
+        "movenote": null,
+        "order": "2",
+        "set": [
+          {
+            "setid": "3",
+            "exercise": "Lat Pull Down",
+            "exercisetype": "rep",
+            "reptime": "12",
+            "weight": "100",
+            "unit": "lb",
+            "settype": "Regular",
+            "setnote": null,
+            "order": "1"
+          },
+          {
+            "setid": "4",
+            "exercise": "Lat Pull Down",
+            "exercisetype": "rep",
+            "reptime": "10",
+            "weight": "100",
+            "unit": "lb",
+            "settype": "Regular",
+            "setnote": null,
+            "order": "2"
+          },
+          {
+            "setid": "3",
+            "exercise": "Lat Pull Down",
+            "exercisetype": "rep",
+            "reptime": "12",
+            "weight": "100",
+            "unit": "lb",
+            "settype": "Regular",
+            "setnote": null,
+            "order": "3"
+          },
+          {
+            "setid": "5",
+            "exercise": "Lat Pull Down",
+            "exercisetype": "rep",
+            "reptime": "8",
+            "weight": "80",
+            "unit": "lb",
+            "settype": "Drop",
+            "setnote": null,
+            "order": "4"
+          },
+          {
+            "setid": "6",
+            "exercise": "Lat Pull Down",
+            "exercisetype": "rep",
+            "reptime": "10",
+            "weight": "60",
+            "unit": "lb",
+            "settype": "Drop",
+            "setnote": null,
+            "order": "5"
+          }
+        ]
+      },
+      {
+        "moveid": "3",
+        "baseexercisename": "Seated Row",
+        "movenote": null,
+        "order": "3",
+        "set": [
+          {
+            "setid": "7",
+            "exercise": "Seated Row",
+            "exercisetype": "rep",
+            "reptime": "11",
+            "weight": "120",
+            "unit": "lb",
+            "settype": "Regular",
+            "setnote": null,
+            "order": "1"
+          },
+          {
+            "setid": "8",
+            "exercise": "Seated Row Narrow",
+            "exercisetype": "rep",
+            "reptime": "12",
+            "weight": "90",
+            "unit": "lb",
+            "settype": "Super",
+            "setnote": null,
+            "order": "2"
+          },
+          {
+            "setid": "7",
+            "exercise": "Seated Row",
+            "exercisetype": "rep",
+            "reptime": "11",
+            "weight": "120",
+            "unit": "lb",
+            "settype": "Regular",
+            "setnote": null,
+            "order": "3"
+          },
+          {
+            "setid": "8",
+            "exercise": "Seated Row Narrow",
+            "exercisetype": "rep",
+            "reptime": "12",
+            "weight": "90",
+            "unit": "lb",
+            "settype": "Super",
+            "setnote": null,
+            "order": "4"
+          },
+          {
+            "setid": "7",
+            "exercise": "Seated Row",
+            "exercisetype": "rep",
+            "reptime": "11",
+            "weight": "120",
+            "unit": "lb",
+            "settype": "Regular",
+            "setnote": null,
+            "order": "5"
+          },
+          {
+            "setid": "8",
+            "exercise": "Seated Row Narrow",
+            "exercisetype": "rep",
+            "reptime": "12",
+            "weight": "90",
+            "unit": "lb",
+            "settype": "Super",
+            "setnote": null,
+            "order": "6"
+          },
+          {
+            "setid": "9",
+            "exercise": "Seated Row",
+            "exercisetype": "rep",
+            "reptime": "8",
+            "weight": "70",
+            "unit": "lb",
+            "settype": "Drop",
+            "setnote": null,
+            "order": "7"
+          },
+          {
+            "setid": "10",
+            "exercise": "Seated Row Narrow",
+            "exercisetype": "rep",
+            "reptime": "20",
+            "weight": "50",
+            "unit": "lb",
+            "settype": "Super Drop",
+            "setnote": null,
+            "order": "8"
+          }
+        ]
+      },
+      {
+        "moveid": "4",
+        "baseexercisename": "Incline Hammer Curl",
+        "movenote": null,
+        "order": "4",
+        "set": [
+          {
+            "setid": "11",
+            "exercise": "Incline Hammer Curl",
+            "exercisetype": "rep",
+            "reptime": "12",
+            "weight": "25",
+            "unit": "lb",
+            "settype": "Regular",
+            "setnote": null,
+            "order": "1"
+          },
+          {
+            "setid": "12",
+            "exercise": "Incline Hammer Pulse",
+            "exercisetype": "rep",
+            "reptime": "10",
+            "weight": "25",
+            "unit": "lb",
+            "settype": "Super",
+            "setnote": null,
+            "order": "2"
+          },
+          {
+            "setid": "11",
+            "exercise": "Incline Hammer Curl",
+            "exercisetype": "rep",
+            "reptime": "12",
+            "weight": "25",
+            "unit": "lb",
+            "settype": "Regular",
+            "setnote": null,
+            "order": "3"
+          },
+          {
+            "setid": "13",
+            "exercise": "Incline Hammer Hold",
+            "exercisetype": "time",
+            "reptime": "25",
+            "weight": "25",
+            "unit": "s",
+            "settype": "Super",
+            "setnote": null,
+            "order": "4"
+          },
+          {
+            "setid": "11",
+            "exercise": "Incline Hammer Curl",
+            "exercisetype": "rep",
+            "reptime": "12",
+            "weight": "25",
+            "unit": "lb",
+            "settype": "Regular",
+            "setnote": null,
+            "order": "5"
+          },
+          {
+            "setid": "12",
+            "exercise": "Incline Hammer Pulse",
+            "exercisetype": "rep",
+            "reptime": "10",
+            "weight": "25",
+            "unit": "lb",
+            "settype": "Super",
+            "setnote": null,
+            "order": "6"
+          },
+          {
+            "setid": "14",
+            "exercise": "Incline Hammer Curl",
+            "exercisetype": "rep",
+            "reptime": "12",
+            "weight": "15",
+            "unit": "lb",
+            "settype": "Drop",
+            "setnote": null,
+            "order": "7"
+          },
+          {
+            "setid": "15",
+            "exercise": "Incline Hammer Hold",
+            "exercisetype": "time",
+            "reptime": "37",
+            "weight": "25",
+            "unit": "s",
+            "settype": "Super",
+            "setnote": null,
+            "order": "8"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Dads Work Thing</title>
+	<script type="text/javascript" src="js/jquery-1.11.2.js"></script>
+	<link rel="stylesheet" type="text/css" href="css/dadThing.css">
+	<script src="js/dadThing.js"></script>
+</head>
+<body>
+	<div id="loginPage">
+		<div class="login">
+			<table>
+				<tr>
+					<td>Username:</td>
+					<td><input type="text" id="username"></td>
+				</tr>
+				<tr>
+					<td>Password:</td>
+					<td><input type="password" id="password"></td>
+				</tr>
+				<tr>
+					<td>Context:</td>
+					<td>
+						<select id="context">
+							<option value="default">Default</option>
+							<option value="bossmode">Boss Mode</option>
+						</select>
+					</td>
+				</tr>
+				<tr>
+					<td colspan="2" id="loginStatus"></td>
+				</tr>
+				<tr>
+					<td colspan="2"><input type="button" value="Login" onclick="login()"></td>
+				</tr>
+			</table>
+		</div>
+	</div>
+	<div id="content" class="hidden">
+		<div id="nav">
+			<p>Navigation</p>
+			<ul>
+				<li onclick="navClick('page1')">Thing 1</li>
+				<li onclick="navClick('page2')">Thing 2</li>
+				<li onclick="navClick('page3')">Thing 3</li>
+				<li onclick="navClick('page4')">Thing 4</li>
+				<li onclick="navClick('page5')">Thing 5</li>
+				<li onclick="navClick('page6')">Thing 6</li>
+			</ul>
+		</div>
+		<div id="pageContainer">
+			<div id="page1" class="page hidden">Page 1</div>
+			<div id="page2" class="page hidden">Page 2</div>
+			<div id="page3" class="page hidden">Page 3</div>
+			<div id="page4" class="page hidden">Page 4</div>
+			<div id="page5" class="page hidden">Page 5</div>
+			<div id="page6" class="page hidden">Page 6</div>
+		</div>
+	</div>
+</body>
+</html>
