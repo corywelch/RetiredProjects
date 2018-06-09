@@ -1,0 +1,85 @@
+body {
+	background-color: darkblue;
+	color: lightgrey;
+	margin: 0 0 0 0;
+	padding: 0 0 0 0;
+}
+
+.hidden {
+	display:none;
+}
+
+.errorText {
+	color: red;
+}
+
+.login {
+	height: 140px;
+	width: 300px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 30vh;
+	background-color: white;
+	color: #222222;
+	border: 2px solid darkred;
+	padding: 10px 10px 10px 10px;
+}
+
+.content {
+	margin: 0 0 0 0;
+	padding: 0 0 0 0;
+}
+
+#nav {
+	margin: 0 0 0 0;
+	padding: 0 0 0 0;
+	position: absolute;
+	width: 150px;
+	height: 100vh;
+	background-color: lightblue;
+	color: #222222;
+}
+
+#nav p {
+	margin: 10px 10px 0 10px;
+}
+
+#nav ul {
+	margin-top: 5px;
+}
+
+#nav ul li {
+	width: 80px;
+	height: 20px;
+}
+
+#pageContainer {
+	display: inline-block;
+	height: 100vh;
+	padding-left: 150px;
+	width: 100%;
+}
+
+.page {
+	height: 100%;
+	color: #222222;
+}
+
+#page1 {
+	background-color: red;
+}
+#page2 {
+	background-color: orange;
+}
+#page3 {
+	background-color: yellow;
+}
+#page4{
+	background-color: green;
+}
+#page5 {
+	background-color: aqua;
+}
+#page6 {
+	background-color: purple;
+}

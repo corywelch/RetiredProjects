@@ -1,0 +1,8 @@
+CREATE TABLE users (id int NOT NULL UNIQUE PRIMARY KEY, username varchar(255) NOT NULL UNIQUE, firstname varchar(255), lastmame varchar(255), password varchar(255) NOT NULL);
+
+ALTER TABLE users ALTER COLUMN password SET NOT NULL;
+
+CREATE TABLE locations (id int NOT NULL UNIQUE PRIMARY KEY, name varchar(255) NOT NULL);
+
+CREATE TABLE workouts (id int NOT NULL UNIQUE PRIMARY KEY, userid int REFERENCES users(id), locationid int REFERENCES locations(id), date date NOT NULL, time time, note varchar(500));
+

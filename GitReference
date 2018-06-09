@@ -1,0 +1,8 @@
+run the following on config.properties after change is made to it
+this will not commit dev version of the file to the master
+
+git update-index --assume-unchanged config.properties
+
+To allow changing again (for commit purposes)
+
+git update-index --no-assume-unchanged config.properties
