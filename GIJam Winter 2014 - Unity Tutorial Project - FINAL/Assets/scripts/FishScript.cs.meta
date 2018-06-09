@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 631ba0caf9e9b52458c4cb94e2bcfd5d
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - stretchSound: {fileID: 8300000, guid: a2903cc3b2296ae4887b6d9b90994807, type: 3}
+  - popSound: {fileID: 8300000, guid: 5a7d20de56bf9704d92a92cd796b11ca, type: 3}
+  - explosionSound: {instanceID: 0}
+  - explosion: {fileID: 100000, guid: 90a2a2dc66af8e840815dfc11afa6471, type: 2}
+  - youWin: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

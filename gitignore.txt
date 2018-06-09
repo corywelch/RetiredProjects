@@ -1,0 +1,12 @@
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uilds/
+*.csproj
+*.unityproj
+*.sln
+*.apk
+*.sln.DotSettings.user
+*.suo
+*.userprefs
+*.pidb

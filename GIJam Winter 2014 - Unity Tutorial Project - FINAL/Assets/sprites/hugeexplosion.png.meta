@@ -1,0 +1,265 @@
+fileFormatVersion: 2
+guid: f57e9cdc4bdcd4545b44c338e11d2c63
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: hugeexplosion_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 445
+        width: 75
+        height: 76
+      alignment: 9
+      pivot: {x: .5, y: .142429546}
+    - name: hugeexplosion_1
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 445
+        width: 85
+        height: 81
+      alignment: 9
+      pivot: {x: .5, y: .133637607}
+    - name: hugeexplosion_2
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 445
+        width: 85
+        height: 86
+      alignment: 9
+      pivot: {x: .500000358, y: .125867978}
+    - name: hugeexplosion_3
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 445
+        width: 87
+        height: 104
+      alignment: 9
+      pivot: {x: .497007161, y: .0650898889}
+    - name: hugeexplosion_4
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 445
+        width: 92
+        height: 109
+      alignment: 9
+      pivot: {x: .497169822, y: .0692698658}
+    - name: hugeexplosion_5
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 325
+        width: 100
+        height: 111
+      alignment: 9
+      pivot: {x: .476567656, y: .0820953101}
+    - name: hugeexplosion_6
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 325
+        width: 104
+        height: 111
+      alignment: 9
+      pivot: {x: .502503455, y: .0750586689}
+    - name: hugeexplosion_7
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 325
+        width: 107
+        height: 113
+      alignment: 9
+      pivot: {x: .5, y: .0806422979}
+    - name: hugeexplosion_8
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 325
+        width: 107
+        height: 114
+      alignment: 9
+      pivot: {x: .5, y: .0867866352}
+    - name: hugeexplosion_9
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 324
+        width: 106
+        height: 117
+      alignment: 9
+      pivot: {x: .524562061, y: .0823359042}
+    - name: hugeexplosion_10
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 196
+        width: 108
+        height: 119
+      alignment: 9
+      pivot: {x: .487946302, y: .137837514}
+    - name: hugeexplosion_11
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 197
+        width: 110
+        height: 119
+      alignment: 9
+      pivot: {x: .5, y: .148776919}
+    - name: hugeexplosion_12
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 197
+        width: 112
+        height: 119
+      alignment: 9
+      pivot: {x: .49767521, y: .13783738}
+    - name: hugeexplosion_13
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 206
+        width: 107
+        height: 111
+      alignment: 9
+      pivot: {x: .49513343, y: .0539483428}
+    - name: hugeexplosion_14
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 211
+        width: 106
+        height: 108
+      alignment: 9
+      pivot: {x: .492631167, y: .0506255552}
+    - name: hugeexplosion_15
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 77
+        width: 107
+        height: 110
+      alignment: 9
+      pivot: {x: .487833649, y: .0852085426}
+    - name: hugeexplosion_16
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 78
+        width: 107
+        height: 110
+      alignment: 9
+      pivot: {x: .490266889, y: .115978308}
+    - name: hugeexplosion_17
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 82
+        width: 106
+        height: 108
+      alignment: 9
+      pivot: {x: .482806236, y: .0891973004}
+    - name: hugeexplosion_18
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 83
+        width: 106
+        height: 108
+      alignment: 9
+      pivot: {x: .472981572, y: .0747328177}
+    - name: hugeexplosion_19
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 81
+        width: 97
+        height: 111
+      alignment: 9
+      pivot: {x: .47852695, y: .114933595}
+    - name: hugeexplosion_20
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 439
+        width: 86
+        height: 88
+      alignment: 9
+      pivot: {x: .50000006, y: .123007342}
+    - name: hugeexplosion_21
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 5
+        width: 71
+        height: 70
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: hugeexplosion_22
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 23
+        width: 69
+        height: 54
+      alignment: 9
+      pivot: {x: .496226668, y: -.197680354}
+    - name: hugeexplosion_23
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 21
+        width: 83
+        height: 60
+      alignment: 9
+      pivot: {x: .518821061, y: -.208287984}
+  spritePackingTag: 
+  userData: 

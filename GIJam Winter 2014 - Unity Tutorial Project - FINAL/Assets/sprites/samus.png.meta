@@ -1,0 +1,1714 @@
+fileFormatVersion: 2
+guid: 54611cb429406404e881c8baa841ffc9
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 25
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: samus_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1233
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1234
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_2
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1237
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_3
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1237
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_4
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1237
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_5
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 1237
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_6
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1237
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_7
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1237
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_8
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1234
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_9
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 1183
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_10
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1187
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_11
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1187
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_12
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1187
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_13
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 1187
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_14
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1187
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_15
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1187
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_16
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1183
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_17
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 1131
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_18
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1128
+        width: 21
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_19
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1128
+        width: 20
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_20
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1138
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_21
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 1138
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_22
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 1128
+        width: 21
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_23
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1128
+        width: 22
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_24
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1132
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_25
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1085
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_26
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1084
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_27
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1077
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_28
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1080
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_29
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 1080
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_30
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1077
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_31
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 1084
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_32
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1085
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_33
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1039
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_34
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1042
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_35
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 1042
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_36
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1042
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_37
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1042
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_38
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 1042
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_39
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1042
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_40
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1039
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_41
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 988
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_42
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 992
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_43
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 992
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_44
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 992
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_45
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 992
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_46
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 992
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_47
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 992
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_48
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 989
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_49
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 936
+        width: 19
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_50
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 936
+        width: 19
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_51
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 936
+        width: 18
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_52
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 936
+        width: 18
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_53
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 886
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_54
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 886
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_55
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 886
+        width: 24
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_56
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 886
+        width: 19
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_57
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 886
+        width: 19
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_58
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 886
+        width: 24
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_59
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 886
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_60
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 886
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_61
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 836
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_62
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 836
+        width: 22
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_63
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 836
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_64
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 836
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_65
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 836
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_66
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 836
+        width: 23
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_67
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 836
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_68
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 836
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_69
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 786
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_70
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 786
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_71
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 786
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_72
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 786
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_73
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 740
+        width: 20
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_74
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 735
+        width: 24
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_75
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 736
+        width: 20
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_76
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 737
+        width: 19
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_77
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 737
+        width: 20
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_78
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 736
+        width: 19
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_79
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 735
+        width: 24
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_80
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 740
+        width: 20
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_81
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 686
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_82
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 687
+        width: 19
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_83
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 690
+        width: 20
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_84
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 689
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_85
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 687
+        width: 19
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_86
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 689
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_87
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 690
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_88
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 686
+        width: 24
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_89
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 641
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_90
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 636
+        width: 21
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_91
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 636
+        width: 21
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_92
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 641
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_93
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 586
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_94
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 586
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_95
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 586
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_96
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 586
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_97
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 586
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_98
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 586
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_99
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 586
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_100
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 586
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_101
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 537
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_102
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 537
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_103
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 537
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_104
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 536
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_105
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 537
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_106
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 537
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_107
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 537
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_108
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 537
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_109
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 486
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_110
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 487
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_111
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 487
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_112
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 487
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_113
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 437
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_114
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 437
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_115
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 437
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_116
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 437
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_117
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 437
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_118
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 437
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_119
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 437
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_120
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 437
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_121
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 387
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_122
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 387
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_123
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 387
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_124
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 387
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_125
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 387
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_126
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 387
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_127
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 387
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_128
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 387
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_129
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 337
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_130
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 337
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_131
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 337
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_132
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 337
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_133
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 283
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_134
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 283
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_135
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 283
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_136
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 283
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_137
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 283
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_138
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 283
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_139
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 283
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_140
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 283
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_141
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 234
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_142
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 234
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_143
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 234
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_144
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 234
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_145
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 234
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_146
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 234
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_147
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 234
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_148
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 234
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_149
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 184
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_150
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 184
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_151
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 184
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_152
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 184
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_153
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 144
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_154
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 143
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_155
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 145
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_156
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 149
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_157
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 149
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_158
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 145
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_159
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 143
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_160
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 144
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_161
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 94
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_162
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 93
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_163
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 95
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_164
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 99
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_165
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 99
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_166
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 95
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_167
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 93
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_168
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 94
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_169
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 50
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_170
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 50
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_171
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 50
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_172
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 50
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_173
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 50
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_174
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 50
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_175
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 50
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_176
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 50
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_177
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 0
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_178
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 0
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_179
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 0
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_180
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 0
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_181
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 0
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_182
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_183
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: samus_184
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+  spritePackingTag: 
+  userData: 
