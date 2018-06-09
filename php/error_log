@@ -1,0 +1,4 @@
+[02-Apr-2014 10:14:43 America/Chicago] PHP Parse error:  syntax error, unexpected 'Location' (T_STRING) in /home/corywelc/public_html/PlayoffPool/php/accountUpdate.php on line 73
+[03-Apr-2014 13:07:06 America/Chicago] PHP Parse error:  syntax error, unexpected 'Password' (T_STRING) in /home/corywelc/public_html/PlayoffPool/php/passwordChange.php on line 46
+[03-Apr-2014 13:07:49 America/Chicago] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/corywelc/public_html/PlayoffPool/php/passwordChange.php on line 57
+[03-Apr-2014 13:11:44 America/Chicago] PHP Parse error:  syntax error, unexpected 'lastName' (T_STRING), expecting ']' in /home/corywelc/public_html/PlayoffPool/php/accountUpdate.php on line 77
